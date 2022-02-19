@@ -3,5 +3,5 @@ psycopg2-binary
 Pillow
 djangorestframework
 python-decouple
-django-phonenumber-field
-phonenumbers
+djangorestframework-simplejwt
+drf-yasg

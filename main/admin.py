@@ -13,6 +13,7 @@ class ImageInline(admin.TabularInline):
 class PostAdmin(admin.ModelAdmin):
     inlines = [ImageInline,]
 
+
 admin.site.register(Reply)
 admin.site.register(Comment)
 
